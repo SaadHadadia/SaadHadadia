@@ -6,6 +6,16 @@
 
 ###
 
+<p align="left">
+    - 🌍 I'm from Morocco<br>
+    - 🔭 Currently working on: freelance web projects and mastering Java development.<br>
+    - 🎓 Education: Pursuing a Master's degree in Information Systems Engineering.<br>
+    - 📚 Currently learning: Quantum Computing and IBM Qiskit development.<br>
+<!--     - 📄 Know about my experiences : <a href="">resume</a> -->
+</p>
+
+###
+
 <h3 align="left">📬 Let's Connect:</h3>
 
 ###
@@ -21,16 +31,6 @@
     </a>
 
 </div>
-
-###
-
-<p align="left">
-    - 🌍 I'm from Morocco<br>
-    - 🔭 Currently working on: freelance web projects and mastering Java development.<br>
-    - 🎓 Education: Pursuing a Master's degree in Information Systems Engineering.<br>
-    - 📚 Currently learning: Quantum Computing and IBM Qiskit development.<br>
-<!--     - 📄 Know about my experiences : <a href="">resume</a> -->
-</p>
 
 ###
 
