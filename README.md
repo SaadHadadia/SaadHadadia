@@ -2,6 +2,18 @@
 
 ###
 
+<div align="center" style="font-family: 'Courier New', Courier, monospace; color: #0e75b6; background: #f5f7fa; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+<pre style="font-size: 14px; line-height: 1.4em; color: #0d6efd;">
+<span style="color: #dc3545;">    ____                  _    _    _            _            _         </span>
+<span style="color: #28a745;">  / ____|                | |  | |  | |          | |          | |()      </span>
+<span style="color: #fd7e14;"> | (___   __ _  __ _  ___| |  | |__| | __ _  ___| | __ _  ___| |_  __ _ </span>
+<span style="color: #20c997;">  \___ \ / _` |/ _` |/ __| |  |  __  |/ _` |/ __| |/ _` |/ __| | |/ _` |</span>
+<span style="color: #6f42c1;">  ____) | (_| | (_| | (__| |  | |  | | (_| | (__| | (_| | (__| | | (_| |</span>
+<span style="color: #6f42c1;"> |_____/ \__,_|\__,_|\___|_|  |_|  |_|\__,_|\___|_|\__,_|\___|_|_|\__,_|</span>
+</pre>
+
+###
+
 <h3 align="left">🚀 Information Systems Enginering Student | Passionate Full Stack Developer </h3>
 
 ###
@@ -16,21 +28,11 @@
 
 ###
 
-<h3 align="left">📬 Let's Connect:</h3>
+<h3 align="left">🌐 Visite My Portfolio:</h3>
 
 ###
 
-<div align="center">
-    <a href="mailto:saad.hadadia9@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="gmail logo" />
-    </a>
-    <a href="https://ma.linkedin.com/in/saadhadadia">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="35" alt="linkedin logo" />
-    </a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-saadhadadia.com-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saadhadadia.com)
 
 ###
 
@@ -174,14 +176,56 @@
 
 ###
 
+<h2> </h2>
+<div>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=13&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Simplicity+is+the+ultimate+sophistication;Innovation+distinguishes+between+a+leader+and+a+follower;The+best+way+to+predict+the+future+is+to+invent+it;If+it+works%2C+don't+touche+it+%F0%9F%A4%AA" alt="Typing SVG" /></a>
+</div>
+<h2></h2>
+
+###
+
 <h3 align="left">📊 My Stats:</h3>
+
+<div align="center">
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SaadHadadia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadHadadia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaadHadadia&theme=radical" alt="GitHub Profile Summary" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadHadadia&theme=radical&hide_border=true&background=0D1117" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaadHadadia&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+
+</div>
+
+<h2 align="left">📬 Let's Connect:</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaadHadadia&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaadHadadia&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaadHadadia&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <a href="mailto:saad.hadadia9@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="gmail logo" />
+    </a>
+    <a href="https://ma.linkedin.com/in/saadhadadia">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="linkedin logo" />
+    </a>
+    <a href="https://saadhadadia.com">
+        <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=ff00ff&logoColor=white&labelColor=&style=for-the-badge"
+            height="35" alt="chrome logo" />
+    </a>
 </div>
 
 ###
+
+<img src="https://komarev.com/ghpvc/?username=SaadHadadia&style=for-the-badge&color=16a085" alt="Profile Views" />
