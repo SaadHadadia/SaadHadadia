@@ -23,7 +23,7 @@
     - 🔭 Currently working on: freelance web projects and mastering Java development.<br>
     - 🎓 Education: Pursuing a Master's degree in Information Systems Engineering.<br>
     - 📚 Currently learning: Quantum Computing and IBM Qiskit development.<br>
-<!--     - 📄 Know about my experiences : <a href="">resume</a> -->
+    - 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1OmbQxMd5C41j0TIPWTj48bQlrWrXQSDf/view?usp=sharing">resume</a>
 </p>
 
 ###
